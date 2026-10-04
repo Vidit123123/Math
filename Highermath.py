@@ -93,7 +93,7 @@ def cbrt(a, tolerance=1e-12):
         a = -a
 
     x = a if a >= 1 else 1
-
+ 
     while True:
         next_x = (2 * x + a / (x * x)) / 3
 
