@@ -1,6 +1,6 @@
 # Math
 
-A Python mathematics library created for learning and experimentation.
+An identical clone of pythons math library built from scratch
 
 ## Features
 
